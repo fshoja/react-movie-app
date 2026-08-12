@@ -1,7 +1,9 @@
 # 🎬 React Movie App
 
 A simple movie search application built with **React** and **Tailwind CSS**.
+## 🚀 Live Demo
 
+[View Live Demo](https://react-movie-app-one-iota.vercel.app/)
 ## ✨ Features
 
 * 🔎 Search for movies
