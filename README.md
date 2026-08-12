@@ -1,16 +1,52 @@
-# React + Vite
+# 🎬 React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple movie search application built with **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🔎 Search for movies
+* 🎬 Display movie results
+* 📄 View movie details
+* 📱 Responsive design
+* ⚡ Built with React + Vite
 
-## React Compiler
+## 🛠️ Technologies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript
+* Tailwind CSS
+* Axios
+* Vite
+* OMDb API
 
-## Expanding the Oxlint configuration
+## 🚀 Run the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/fshoja/react-movie-app.git
+```
+
+Go to the project folder:
+
+```bash
+cd react-movie-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 👩‍💻 Author
+
+**Farzaneh Shoja**
+
+GitHub: [fshoja](https://github.com/fshoja)
